@@ -1,0 +1,12 @@
+In local using CPU::
+
+website:  https://www.kdnuggets.com/2023/02/simple-nlp-pipelines-huggingface-transformers.html
+
+----->The first step is to install the transformers package with the command
+
+pip install transformers
+
+------>for example: if u created a file with name TextSummarization.py then in terminal switch to cmd ,then using command run the application
+
+python TextSummarization.py
+
